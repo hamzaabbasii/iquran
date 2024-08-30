@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "830747460506",
+    "project_id": "iquran-63033",
+    "storage_bucket": "iquran-63033.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:830747460506:android:1c53e29342c4dad013f023",
+        "android_client_info": {
+          "package_name": "com.example.iquran"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBui3l8JVVMqKx-cwtbM94-0mACN07c_64"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
